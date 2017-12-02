@@ -1,4 +1,11 @@
 %In class 19
+%GB comments
+1A 100
+1B 100
+1C 100
+2. 80 No comments to address the question asked. 
+Overall 95
+
 
 % Problem 1. Imagine a clinical trial for two drugs that are intended to lower
 % cholesterol. Assume 30 subjects are randomly divided into 3 groups that
